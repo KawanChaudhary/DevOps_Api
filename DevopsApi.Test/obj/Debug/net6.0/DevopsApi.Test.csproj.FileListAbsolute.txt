@@ -109,3 +109,4 @@ C:\Users\kawansingh\OneDrive - Nagarro\Documents\DevopsProject\DevopsApi.Test\ob
 C:\Users\kawansingh\OneDrive - Nagarro\Documents\DevopsProject\DevopsApi.Test\obj\Debug\net6.0\DevopsApi.Test.pdb
 C:\Users\kawansingh\OneDrive - Nagarro\Documents\DevopsProject\DevopsApi.Test\obj\Debug\net6.0\DevopsApi.Test.genruntimeconfig.cache
 C:\Users\kawansingh\OneDrive - Nagarro\Documents\DevopsProject\DevopsApi.Test\obj\Debug\net6.0\ref\DevopsApi.Test.dll
+C:\Users\kawansingh\OneDrive - Nagarro\Documents\DevopsProject\DevopsApi.Test\obj\Debug\net6.0\DevopsApi.Test.sourcelink.json

@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace DevopsApi.Test
 {
-    public class Testing
+    public class Testing : IClassFixture<WeatherForecastController>
     {
         private WeatherForecastController controller;
 
