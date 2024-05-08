@@ -5,7 +5,7 @@ using Moq;
 
 namespace DevopsApi.Test
 {
-    public class Testing : IClassFixture<WeatherForecastController>
+    public class Testing
     {
         /*private WeatherForecastController controller;
 
@@ -17,6 +17,8 @@ namespace DevopsApi.Test
         [Fact]
         public void Test1()
         {
+            Console.WriteLine("Testing");
+
             var loggerMock = new Mock<ILogger<WeatherForecastController>>();
             var controller = new WeatherForecastController(loggerMock.Object);
 
