@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\DevopsApi.Test.csproj": {}
+    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\DevopsApi.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\DevopsApi.Test.csproj": {
+    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\DevopsApi.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\DevopsApi.Test.csproj",
+        "projectUniqueName": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\DevopsApi.Test.csproj",
         "projectName": "DevopsApi.Test",
-        "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\DevopsApi.Test.csproj",
+        "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\DevopsApi.Test.csproj",
         "packagesPath": "C:\\Users\\kawansingh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\obj\\",
+        "outputPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,8 +31,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\DevOpsApi.csproj": {
-                "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\DevOpsApi.csproj"
+              "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\DevOpsApi.csproj": {
+                "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\DevOpsApi.csproj"
               }
             }
           }
@@ -50,6 +50,10 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -88,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\DevOpsApi.csproj": {
+    "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\DevOpsApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\DevOpsApi.csproj",
+        "projectUniqueName": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\DevOpsApi.csproj",
         "projectName": "DevOpsApi",
-        "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\DevOpsApi.csproj",
+        "projectPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\DevOpsApi.csproj",
         "packagesPath": "C:\\Users\\kawansingh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevOpsApi\\obj\\",
+        "outputPath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevOpsApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

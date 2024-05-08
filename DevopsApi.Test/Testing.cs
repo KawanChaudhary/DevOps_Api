@@ -1,20 +1,25 @@
 using DevOpsApi.Controllers;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using Moq;
 
 namespace DevopsApi.Test
 {
     public class Testing : IClassFixture<WeatherForecastController>
     {
-        private WeatherForecastController controller;
+        /*private WeatherForecastController controller;
 
         public Testing(WeatherForecastController _controller)
         {
             this.controller = _controller;
-        }
+        }*/
 
         [Fact]
         public void Test1()
         {
+            var loggerMock = new Mock<ILogger<WeatherForecastController>>();
+            var controller = new WeatherForecastController(loggerMock.Object);
+
 
             //Act
             var result = controller.Get() as ViewResult;

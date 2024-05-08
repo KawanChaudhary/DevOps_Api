@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "h4R06I5WRhplH9pDgsVV5DG0+KqKqT+/fVuuoGY2Aub6vi/gkdh9t1+R6JhB9lQBbcWLAk43kABa1O7tosmFmA==",
+  "dgSpecHash": "RmkLt5LQF4EbV8kd1aulYoxVQJFhweG5V+LGf1c+kBncjdUqOE768kjKyA2OdxfqOiZeaAUaJg6HEoME75N5pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\DevopsApi.Test\\DevopsApi.Test.csproj",
+  "projectFilePath": "C:\\Users\\kawansingh\\OneDrive - Nagarro\\Documents\\DevopsProject\\Devops1\\DevopsApi.Test\\DevopsApi.Test.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kawansingh\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -15,6 +16,7 @@
     "C:\\Users\\kawansingh\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\kawansingh\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
@@ -23,6 +25,7 @@
     "C:\\Users\\kawansingh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\system.diagnostics.debug\\4.0.11\\system.diagnostics.debug.4.0.11.nupkg.sha512",
+    "C:\\Users\\kawansingh\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\system.diagnostics.tools\\4.0.1\\system.diagnostics.tools.4.0.1.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\system.dynamic.runtime\\4.0.11\\system.dynamic.runtime.4.0.11.nupkg.sha512",
     "C:\\Users\\kawansingh\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
